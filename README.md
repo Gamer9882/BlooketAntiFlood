@@ -5,4 +5,4 @@ You need to click the antiflood.js file and copy the contents and make it a book
 
 
 
-video if you are lost blob:chrome-untrusted://media-app/82c76249-089d-45dc-80c3-660763bd6946
+video if you are
